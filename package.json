@@ -1,0 +1,26 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Alperen Cantez",
+  "license": "ISC",
+  "dependencies": {
+    "daemonize2": "^0.4.2",
+    "isomorphic-unfetch": "^3.1.0",
+    "node-cron": "^3.0.0",
+    "node-telegram-bot-api": "^0.52.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alperencantez/telegramBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alperencantez/telegramBot/issues"
+  },
+  "homepage": "https://github.com/alperencantez/telegramBot#readme",
+  "description": ""
+}
